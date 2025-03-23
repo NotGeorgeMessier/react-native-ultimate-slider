@@ -1,6 +1,6 @@
 {
   "name": "react-native-ultimate-slider",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "react": "18.2.0",
     "react-native": "0.73.8",
@@ -38,5 +38,13 @@
     "plugins": [
       "react-native-reanimated/plugin"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotGeorgeMessier/react-native-ultimate-slider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NotGeorgeMessier/react-native-ultimate-slider/issues"
+  },
+  "homepage": "https://github.com/NotGeorgeMessier/react-native-ultimate-slider#readme"
 }
