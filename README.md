@@ -182,4 +182,4 @@ Its sort of alternative to everything else, including community slider
 
 And its still pretty much in progress, on its way to perfection
 
-Go shit me in [issues](github.com/NotGeorgeMessier/react-native-ultimate-slider) if you dare
+Go shit me in [issues](https://github.com/NotGeorgeMessier/react-native-ultimate-slider/issues) if you dare
